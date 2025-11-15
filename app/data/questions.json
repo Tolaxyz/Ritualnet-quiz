@@ -1,0 +1,147 @@
+[
+  {
+    "question": "What does NexaByte Technologies primarily focus on in its business offerings?",
+    "options": [
+      "Social media apps",
+      "AI-powered automation",
+      "Video games",
+      "Physical hardware manufacturing"
+    ],
+    "answer": "AI-powered automation"
+  },
+  {
+    "question": "Which of the following is a product or service offered by NexaByte?",
+    "options": [
+      "Smart home devices",
+      "AI contract-management system",
+      "Electric cars",
+      "Blockchain cryptocurrency"
+    ],
+    "answer": "AI contract-management system"
+  },
+  {
+    "question": "What is NexaByte’s mission, according to its website?",
+    "options": [
+      "To be the biggest fintech company",
+      "To empower organizations with scalable AI solutions and smarter decision-making",
+      "To create a new social network",
+      "To build video games"
+    ],
+    "answer": "To empower organizations with scalable AI solutions and smarter decision-making"
+  },
+  {
+    "question": "On Twitter/X, how does @NexaByteAI describe its AI ecosystem?",
+    "options": [
+      "A simple chatbot service",
+      "The world's first AGI ecosystem that feels human",
+      "A payment gateway only",
+      "A hardware-only AI solution"
+    ],
+    "answer": "The world's first AGI ecosystem that feels human"
+  },
+  {
+    "question": "What is one of the key differentiators that NexaByte claims about its AGI (general intelligence)?",
+    "options": [
+      "It only works on desktop computers",
+      "It ‘listens deeply’ and tries to push boundaries",
+      "It is designed purely for gaming",
+      "It uses only symbolic AI, no learning"
+    ],
+    "answer": "It ‘listens deeply’ and tries to push boundaries"
+  },
+  {
+    "question": "What is NexaByte describing itself as in its AGI ecosystem?",
+    "options": [
+      "A decentralized payments platform",
+      "The world’s first emotionally intelligent AGI ecosystem",
+      "A cloud infrastructure provider",
+      "A video streaming service"
+    ],
+    "answer": "The world’s first emotionally intelligent AGI ecosystem"
+  },
+  {
+    "question": "What is the name of the AGI ecosystem that NexaByte is building?",
+    "options": ["OMNIA", "AETHER", "SYNTAX", "NEURALINK"],
+    "answer": "AETHER"
+  },
+  {
+    "question": "According to NexaByte’s LinkedIn page, how does their AGI ecosystem differ from most AI today?",
+    "options": [
+      "It is only for gaming",
+      "It is narrow: fast and accurate but shallow",
+      "It is decentralized",
+      "It only runs on mobile"
+    ],
+    "answer": "It is narrow: fast and accurate but shallow"
+  },
+  {
+    "question": "Which phrase is used on NexaByte’s Twitter/X to describe the feel of its AGI ecosystem?",
+    "options": [
+      "Feels robotic",
+      "Feels human",
+      "Feels mathematical",
+      "Feels purely logical"
+    ],
+    "answer": "Feels human"
+  },
+  {
+    "question": "What emotion-related capability does NexaByte claim its AGI can do?",
+    "options": [
+      "Only detect happy mood",
+      "Sense emotions deeply",
+      "Only speak in neutral tone",
+      "Ignore emotional context"
+    ],
+    "answer": "Sense emotions deeply"
+  },
+  {
+    "question": "According to NexaByte’s mission (on its website), what does it aim to empower organizations with?",
+    "options": [
+      "Scalable AI solutions",
+      "Only blockchain solutions",
+      "Traditional software",
+      "Physical hardware"
+    ],
+    "answer": "Scalable AI solutions"
+  },
+  {
+    "question": "Which product is offered by NexaByte Technologies that helps automate contract workflows?",
+    "options": [
+      "NexaByte CRM",
+      "NexaByte Contract-Management (CLM)",
+      "NexaByte Blockchain",
+      "NexaByte Social Media Tool"
+    ],
+    "answer": "NexaByte Contract-Management (CLM)"
+  },
+  {
+    "question": "In addition to AI, which industries does NexaByte Technologies target with its solutions?",
+    "options": [
+      "Entertainment",
+      "Manufacturing & Logistics",
+      "Only banking",
+      "Agriculture only"
+    ],
+    "answer": "Manufacturing & Logistics"
+  },
+  {
+    "question": "Which of these is **not** one of NexaByte’s stated values on its website?",
+    "options": [
+      "Scalability",
+      "Ethical standards",
+      "Data privacy",
+      "Space travel"
+    ],
+    "answer": "Space travel"
+  },
+  {
+    "question": "On its website, what does NexaByte say about its technology stack focus?",
+    "options": [
+      "Only blockchain",
+      "Big data, NLP, machine learning",
+      "Only mobile apps",
+      "Only hardware design"
+    ],
+    "answer": "Big data, NLP, machine learning"
+  }
+]

@@ -1,147 +1,142 @@
 [
   {
-    "question": "What does NexaByte Technologies primarily focus on in its business offerings?",
+    "question": "What does @ritualnet describe itself as on Twitter?",
     "options": [
-      "Social media apps",
-      "AI-powered automation",
-      "Video games",
-      "Physical hardware manufacturing"
+      "A social media platform",
+      "The world's sovereign chain for AI",
+      "A gaming network",
+      "A decentralized file storage"
     ],
-    "answer": "AI-powered automation"
+    "answer": "The world's sovereign chain for AI"
   },
   {
-    "question": "Which of the following is a product or service offered by NexaByte?",
+    "question": "Which ecosystem does Ritual aim to integrate AI with?",
     "options": [
-      "Smart home devices",
-      "AI contract-management system",
-      "Electric cars",
-      "Blockchain cryptocurrency"
+      "Smart contracts on blockchain",
+      "Cloud gaming platforms",
+      "Web2 centralized services",
+      "Traditional database servers"
     ],
-    "answer": "AI contract-management system"
+    "answer": "Smart contracts on blockchain"
   },
   {
-    "question": "What is NexaByte’s mission, according to its website?",
+    "question": "What type of infrastructure is Ritual building in Web3?",
     "options": [
-      "To be the biggest fintech company",
-      "To empower organizations with scalable AI solutions and smarter decision-making",
-      "To create a new social network",
-      "To build video games"
+      "Decentralized financial derivatives",
+      "Open AI infrastructure network",
+      "NFT marketplace only",
+      "Cloud gaming service"
     ],
-    "answer": "To empower organizations with scalable AI solutions and smarter decision-making"
+    "answer": "Open AI infrastructure network"
   },
   {
-    "question": "On Twitter/X, how does @NexaByteAI describe its AI ecosystem?",
-    "options": [
-      "A simple chatbot service",
-      "The world's first AGI ecosystem that feels human",
-      "A payment gateway only",
-      "A hardware-only AI solution"
-    ],
-    "answer": "The world's first AGI ecosystem that feels human"
+    "question": "What is the name of the first phase product from Ritual that brings AI models on chain?",
+    "options": ["Infernet", "ChainAI", "RitualNet SDK", "AIChain"],
+    "answer": "Infernet"
   },
   {
-    "question": "What is one of the key differentiators that NexaByte claims about its AGI (general intelligence)?",
+    "question": "Which of the following is NOT a focus area of Ritual’s technology?",
     "options": [
-      "It only works on desktop computers",
-      "It ‘listens deeply’ and tries to push boundaries",
-      "It is designed purely for gaming",
-      "It uses only symbolic AI, no learning"
+      "Decentralized AI compute integration",
+      "On-chain smart contract access to AI",
+      "Blockchain for physical hardware only",
+      "Cryptographic proof of compute integrity"
     ],
-    "answer": "It ‘listens deeply’ and tries to push boundaries"
+    "answer": "Blockchain for physical hardware only"
   },
   {
-    "question": "What is NexaByte describing itself as in its AGI ecosystem?",
+    "question": "What role do developers have in Ritual’s ecosystem?",
     "options": [
-      "A decentralized payments platform",
-      "The world’s first emotionally intelligent AGI ecosystem",
-      "A cloud infrastructure provider",
-      "A video streaming service"
+      "Only community moderators",
+      "Integrate AI models into apps and protocols",
+      "Only create memes",
+      "Design logos"
     ],
-    "answer": "The world’s first emotionally intelligent AGI ecosystem"
+    "answer": "Integrate AI models into apps and protocols"
   },
   {
-    "question": "What is the name of the AGI ecosystem that NexaByte is building?",
-    "options": ["OMNIA", "AETHER", "SYNTAX", "NEURALINK"],
-    "answer": "AETHER"
+    "question": "Which network does Ritual partner with for secure restaking and AI-enabled DApps?",
+    "options": ["Solana", "Bitcoin", "EigenLayer", "Cardano"],
+    "answer": "EigenLayer"
   },
   {
-    "question": "According to NexaByte’s LinkedIn page, how does their AGI ecosystem differ from most AI today?",
+    "question": "What does the Ritual Foundation focus on?",
     "options": [
-      "It is only for gaming",
-      "It is narrow: fast and accurate but shallow",
-      "It is decentralized",
-      "It only runs on mobile"
+      "Marketing services for influencers",
+      "Development and decentralization of Ritual Chain",
+      "Traditional web hosting",
+      "Centralized AI data storage"
     ],
-    "answer": "It is narrow: fast and accurate but shallow"
+    "answer": "Development and decentralization of Ritual Chain"
   },
   {
-    "question": "Which phrase is used on NexaByte’s Twitter/X to describe the feel of its AGI ecosystem?",
+    "question": "Where can community members discuss and engage with Ritual updates?",
     "options": [
-      "Feels robotic",
-      "Feels human",
-      "Feels mathematical",
-      "Feels purely logical"
+      "LinkedIn Jobs Only",
+      "Discord server",
+      "Only private email",
+      "Telegram channel only"
     ],
-    "answer": "Feels human"
+    "answer": "Discord server"
   },
   {
-    "question": "What emotion-related capability does NexaByte claim its AGI can do?",
+    "question": "What is Ritual’s main objective in Web3?",
     "options": [
-      "Only detect happy mood",
-      "Sense emotions deeply",
-      "Only speak in neutral tone",
-      "Ignore emotional context"
+      "To centralize all AI on one server",
+      "To democratize AI infrastructure and make AI accessible on-chain",
+      "To launch only NFTs",
+      "To build a gaming console"
     ],
-    "answer": "Sense emotions deeply"
+    "answer": "To democratize AI infrastructure and make AI accessible on-chain"
   },
   {
-    "question": "According to NexaByte’s mission (on its website), what does it aim to empower organizations with?",
+    "question": "Which phrase best describes Ritual’s mission based on Twitter posts?",
     "options": [
-      "Scalable AI solutions",
-      "Only blockchain solutions",
-      "Traditional software",
-      "Physical hardware"
+      "Maximize centralized control",
+      "Enable trustless, decentralized AI integration",
+      "Build more private data silos",
+      "Create social media influencers"
     ],
-    "answer": "Scalable AI solutions"
+    "answer": "Enable trustless, decentralized AI integration"
   },
   {
-    "question": "Which product is offered by NexaByte Technologies that helps automate contract workflows?",
+    "question": "Which Twitter account is associated with governance and ecosystem growth for Ritual?",
     "options": [
-      "NexaByte CRM",
-      "NexaByte Contract-Management (CLM)",
-      "NexaByte Blockchain",
-      "NexaByte Social Media Tool"
+      "@ritualnet_updates",
+      "@ritualfnd",
+      "@ritualcoins",
+      "@ritualAIonly"
     ],
-    "answer": "NexaByte Contract-Management (CLM)"
+    "answer": "@ritualfnd"
   },
   {
-    "question": "In addition to AI, which industries does NexaByte Technologies target with its solutions?",
+    "question": "Which type of applications can Ritual’s infrastructure help build?",
     "options": [
-      "Entertainment",
-      "Manufacturing & Logistics",
-      "Only banking",
-      "Agriculture only"
+      "AI-enabled decentralized applications (DApps)",
+      "Only mobile games without blockchain",
+      "Traditional websites",
+      "Centralized analytics tools"
     ],
-    "answer": "Manufacturing & Logistics"
+    "answer": "AI-enabled decentralized applications (DApps)"
   },
   {
-    "question": "Which of these is **not** one of NexaByte’s stated values on its website?",
+    "question": "What kind of engagement is encouraged inside the Ritual community?",
     "options": [
-      "Scalability",
-      "Ethical standards",
-      "Data privacy",
-      "Space travel"
+      "Active participation and roles within ecosystem",
+      "Only watching videos passively",
+      "Exclusive invite-only messages",
+      "Silent membership"
     ],
-    "answer": "Space travel"
+    "answer": "Active participation and roles within ecosystem"
   },
   {
-    "question": "On its website, what does NexaByte say about its technology stack focus?",
+    "question": "Which phrase describes what Ritual wants smart contracts to be able to do?",
     "options": [
-      "Only blockchain",
-      "Big data, NLP, machine learning",
-      "Only mobile apps",
-      "Only hardware design"
+      "Access AI natively and perform on-chain compute",
+      "Only submit financial transactions",
+      "Only store files",
+      "Only host webpages"
     ],
-    "answer": "Big data, NLP, machine learning"
+    "answer": "Access AI natively and perform on-chain compute"
   }
 ]

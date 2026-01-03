@@ -34,7 +34,10 @@ export default function QuizBall({
               showFeedback === "correct" ? "ring-4 ring-green-200" : ""
             } ${showFeedback === "wrong" ? "ring-4 ring-red-200" : ""}`}
           >
-            <div className="w-10 h-10 rounded-full bg-red-500 shadow-inner border border-red-600" />
+            <div
+              className="w-10 h-10 rounded-full text-green-400
+shadow-inner border"
+            />
           </div>
           <motion.div
             initial={{ scale: 0.98 }}

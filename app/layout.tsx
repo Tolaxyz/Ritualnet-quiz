@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NEXABYTE",
-  description: "Created by 0xhon",
+  title: "Ritualnet",
+  description: "Created by priscilla",
 };
 
 export default function RootLayout({

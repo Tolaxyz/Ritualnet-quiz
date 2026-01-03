@@ -13,7 +13,7 @@ export default function TimerBar({ timeLeft, total }: TimerProps) {
       <div className="text-sm text-slate-600">Time left</div>
       <div className="w-full h-3 bg-white rounded-full border border-blue-100 mt-2 overflow-hidden">
         <motion.div
-          className="h-full bg-blue-400 rounded-full"
+          className="h-full bg-green-400 rounded-full"
           style={{ width: `${progress}%` }}
           animate={{ width: `${progress}%` }}
           transition={{ ease: "linear" }}

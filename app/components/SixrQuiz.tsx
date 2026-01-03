@@ -139,7 +139,10 @@ export default function SixrQuiz({ questions }: SixrQuizProps) {
         <div className="col-span-1 flex flex-col items-center gap-4">
           <Player isBatting={isBatting} />
           <TimerBar timeLeft={timeLeft} total={QUESTION_TIME} />
-          <div className="text-3xl font-bold text-blue-600 mt-4">
+          <div
+            className="text-3xl font-bold text-green-400
+ mt-4"
+          >
             Score: {score}
           </div>
         </div>

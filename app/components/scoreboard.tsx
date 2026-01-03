@@ -22,7 +22,10 @@ export default function Scoreboard({
     >
       <div className="flex items-center gap-6">
         <div className="text-sm text-slate-600">Your Score</div>
-        <div className="text-4xl font-bold text-blue-600">
+        <div
+          className="text-4xl font-bold text-green-400
+"
+        >
           {score} / {total}
         </div>
         <div className="text-sm text-slate-500">Accuracy: {accuracy}%</div>
@@ -31,7 +34,8 @@ export default function Scoreboard({
         whileHover={{ y: -4 }}
         onClick={onRetake}
         style={{ fontFamily: '"Comic Sans MS", "Comic Sans", cursive' }}
-        className="px-6 py-3 rounded-full bg-white border border-blue-200 shadow-lg text-blue-600 font-bold text-lg"
+        className="px-6 py-3 rounded-full bg-white border border-blue-200 shadow-lg text-green-400
+ font-bold text-lg"
       >
         Retake Quiz
       </motion.button>
